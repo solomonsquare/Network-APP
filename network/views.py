@@ -12,7 +12,7 @@ from django.contrib.staticfiles import finders
 import os
 import openai
 
-openai.api_key = "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"
+openai.api_key = "API-KEY"
 
 
 
